@@ -1,5 +1,5 @@
 # Spherable
-A spheres world generator. A new survival challenge.
+Spheres is a world generator. A new survival challenge.
     
     
     
